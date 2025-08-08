@@ -56,7 +56,7 @@ Through this project, I demonstrate skills in:
 
 Example sales distribution chart:
 
-![Sales Chart]<img width="571" height="486" alt="Screenshot 2025-08-08 200033" src="https://github.com/user-attachments/assets/61f17f22-e5a6-4bd4-ba02-48166a4dc7d5" />
+<img width="571" height="486" alt="Screenshot 2025-08-08 200033" src="https://github.com/user-attachments/assets/61f17f22-e5a6-4bd4-ba02-48166a4dc7d5" />
 
 
 ---
