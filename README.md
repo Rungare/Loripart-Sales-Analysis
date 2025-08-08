@@ -56,7 +56,7 @@ Through this project, I demonstrate skills in:
 
 Example sales distribution chart:
 
-![Sales Chart](https://via.placeholder.com/800x400.png?text=Sample+Sales+Visualization)
+![Sales Chart]("C:\Users\evans\OneDrive\Documents\work PROJECT\loripart_report_images\tot_sales_per_month.png")
 
 ---
 
@@ -65,7 +65,7 @@ Example sales distribution chart:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/loripart-sales-analysis.git
+   git clone https://github.com/yourusername/Loripart-Sales-Analysis.git
    cd loripart-sales-analysis
    ```
 2. Install required libraries:
@@ -76,7 +76,7 @@ Example sales distribution chart:
 3. Run the analysis script:
 
    ```bash
-   python loripart_analysis.py
+   python Loripart_Analysis.py
    ```
 
 ---
