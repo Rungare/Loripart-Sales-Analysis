@@ -1,8 +1,8 @@
 # 📊 Loripart Sales Analysis
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/loripart-sales-analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/y/Loripart-Sales-Analysis)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Kaggle-green)
 ![Status](https://img.shields.io/badge/status-Active-success)
 
 ## 📌 Project Overview
@@ -65,7 +65,7 @@ Example sales distribution chart:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Loripart-Sales-Analysis.git
+   git clone https://github.com/Rungare/Loripart-Sales-Analysis.git
    cd loripart-sales-analysis
    ```
 2. Install required libraries:
