@@ -1,6 +1,6 @@
 # 📊 Loripart Sales Analysis
 
-![GitHub repo size](https://img.shields.io/github/repo-size/y/Loripart-Sales-Analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/Rungare/Loripart-Sales-Analysis)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-Kaggle-green)
 ![Status](https://img.shields.io/badge/status-Active-success)
@@ -66,7 +66,7 @@ Example sales distribution chart:
 
    ```bash
    git clone https://github.com/Rungare/Loripart-Sales-Analysis.git
-   cd loripart-sales-analysis
+   cd Loripart-Sales-Analysis
    ```
 2. Install required libraries:
 
