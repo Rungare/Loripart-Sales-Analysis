@@ -56,7 +56,8 @@ Through this project, I demonstrate skills in:
 
 Example sales distribution chart:
 
-![Sales Chart]("C:\User<img width="598" height="456" alt="tot_sales_per_month" src="https://github.com/user-attachments/assets/1820169d-5efa-46e5-82ce-8cf26125b2fb")
+![Sales Chart]<img width="571" height="486" alt="Screenshot 2025-08-08 200033" src="https://github.com/user-attachments/assets/61f17f22-e5a6-4bd4-ba02-48166a4dc7d5" />
+
 
 ---
 
