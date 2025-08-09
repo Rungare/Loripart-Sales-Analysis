@@ -87,7 +87,7 @@ For questions, feedback, or collaboration:
 
 - **Name:** Evans Rung'are  
 - **Email:** evansrungare@gmail.com  
-- **LinkedIn:** [linkedin.com/in/rungare](https://linkedin.com/in/rungare)  
+- **LinkedIn:** [linkedin.com/in/evans-rungare](https://linkedin.com/in/evans-rungare)  
 - **GitHub:** [github.com/Rungare](https://github.com/Rungare)  
 
 ---
