@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-**Loripart Sales Analysis** is a data-driven project that examines sales patterns, inventory trends, and customer purchasing behavior for a local spare parts shop.
+**Loripart Sales Analysis** is a data-driven project that examines sales patterns and inventory trends for a local spare parts shop.
 The goal is to uncover insights that improve decision-making, optimize stock levels, and boost revenue.
 
 Through this project, I demonstrate skills in:
@@ -28,7 +28,6 @@ Through this project, I demonstrate skills in:
 
   * `Date` — Date of transaction
   * `Product` — Spare part name
-  * `Quantity` — Units sold
   * `Price` — Unit price
   * `Amount` — Total sale amount
 
@@ -84,10 +83,12 @@ Example sales distribution chart:
 
 ## 📬 Contact
 
-**Evans Rung’are**
-📧 Email: evansrungare@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/rungare)
-🐙 [GitHub](https://github.com/rungare)
+For questions, feedback, or collaboration:
+
+- **Name:** Evans Rung'are  
+- **Email:** evansrungare@gmail.com  
+- **LinkedIn:** [linkedin.com/in/rungare](https://linkedin.com/in/rungare)  
+- **GitHub:** [github.com/Rungare](https://github.com/Rungare)  
 
 ---
 
